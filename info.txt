@@ -1,0 +1,14 @@
+1.face emotion recognition 50%: 
+2.sentiment analysis after speech to text 50%
+3.robot speaks the results
+
+facial emotion analysis: https://colab.research.google.com/drive/1XVBc_hbNtj1fQIugENnPI7ThnxQsffUf#scrollTo=8KJXGC_esNgF
+google text to speech: https://github.com/pndurette/gTTS
+speech to text: 
+
+
+if happy, don't do anything
+if moderate sadness, send give inspirational quote: https://type.fit/api/quotes,
+jokes api,
+
+if very sad/angry, recommend a therapist's number
