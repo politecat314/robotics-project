@@ -17,10 +17,12 @@ def recognize(audio_path):
 
 def speak(time_to_speak=5):
     with sr.Microphone() as source:
-        print("recording your voice")
+        print("The robot is listening to your answer. Please speak")
         # read the audio data from the default microphone
         audio_data = r.record(source, duration=time_to_speak)
         print("Recognizing...")
         # convert speech to text
         text = r.recognize_google(audio_data)
-        print(text)
+        # print(text)
+
+        return text
