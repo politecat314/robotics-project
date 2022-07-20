@@ -11,4 +11,4 @@ if happy, don't do anything
 if moderate sadness, send give inspirational quote: https://type.fit/api/quotes,
 jokes api,
 
-if very sad/angry, recommend a therapist's number
+if very sad/angry, recommend a therapist's number 017
